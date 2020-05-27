@@ -1,9 +1,8 @@
-# BCN_Activa_BackEnd_Java
-Excercicis java Back-End
 
 1. Exercici Variables, Constants i bucle For
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/ETzNW48ZUIlOjbwTvCb9dgABUsMumHHclV8Ie6zp0qRnQw?e=hSQU9x
     --> VariablesConstantsbucle
+
 Fase1.js: Done
 Fase2.js: Done
 Fase3.js: ToDo
@@ -44,5 +43,4 @@ https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EZPLffKGq31Ooqke3vAykEsBlA
 9. Exercici Pair Programming
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EWu7L0RmSKJFnmJuEpqkewIBcDQbTNfk_K_5b5N2h862gw?e=tKhE53
     --> Exercici Pair Programming
-
 
