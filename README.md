@@ -32,12 +32,15 @@ https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/Efz7pyQEh4RGj96m44IKD0kBDa
 6 Exercici Domini Videos
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/ETtRBAZ13StCqTbOHdEeyfIBrypSsKCDDS4cOk0jP99c9g?e=FYjd4D
     --> DominiVideos
+    
 7 Exercici Rockets
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EVejgJanUGNGkvpT-XbkfMwBXkm24dFnSZmWuiB50QKBBQ?e=gGIQny
     --> Rockets
+    
 8 Exercici ??
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EZPLffKGq31Ooqke3vAykEsBlA9nncLL0W8epJu0zTbDKg?e=JZfLWU
     --> Exercici
+    
 9. Exercici Pair Programming
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EWu7L0RmSKJFnmJuEpqkewIBcDQbTNfk_K_5b5N2h862gw?e=tKhE53
     --> Exercici Pair Programming
