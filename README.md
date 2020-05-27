@@ -11,8 +11,8 @@ Fase4.js: ToDo
 Fase1.java: Done
 Fase2.java: ToDo
 Fase3.java: ToDo
-Fase4.java: ToDo
-    
+Fase4.java: ToD
+
 2. Exercici Lletres Repetides
 https://barcelonactiva.sharepoint.com/:w:/s/ITAcademy/EehycCxtBiVOl0DrdeK3VO4BdVO1RMz2BTmz6ttVgzO_Mw?e=lSA856
     --> LletresRepetides
