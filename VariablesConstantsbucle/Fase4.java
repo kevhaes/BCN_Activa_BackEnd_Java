@@ -11,7 +11,6 @@ public class Fase4 {
 		int day = Integer.parseInt(JOptionPane.showInputDialog("what birth day?"));
 		int month = Integer.parseInt(JOptionPane.showInputDialog("what birth month?"));
 		int year = Integer.parseInt(JOptionPane.showInputDialog("what birth year?"));
-		boolean isLeap = false;
 
 		String fullName = name + " " + sirName1 + "-" + sirName2;
 		String fullBirthday = day + "/" + month + "/" + year;
