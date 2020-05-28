@@ -4,7 +4,7 @@ public class Fase2 {
 		final int RefYear = 1948;
 		int interval = 4;
 		int MyYear = 1978;
-		int numberOfLeapYears = (MyYear - RefYear) / 2;
+		int numberOfLeapYears = (MyYear - RefYear) / interval;
 
 		System.out.println("there are " + numberOfLeapYears + " leap years between " + RefYear + " and " + MyYear);
 
